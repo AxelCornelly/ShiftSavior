@@ -1,0 +1,24 @@
+edu/harvard/cs50/shiftsavior/TaskActivity.java
+ edu.harvard.cs50.shiftsavior.TaskActivity
+ edu.harvard.cs50.shiftsavior.TaskActivity$1
+ edu.harvard.cs50.shiftsavior.TaskActivity$2
+edu/harvard/cs50/shiftsavior/AlertReceiver.java
+ edu.harvard.cs50.shiftsavior.AlertReceiver
+edu/harvard/cs50/shiftsavior/BuildConfig.java
+ edu.harvard.cs50.shiftsavior.BuildConfig
+edu/harvard/cs50/shiftsavior/TaskAdapter.java
+ edu.harvard.cs50.shiftsavior.TaskAdapter
+ edu.harvard.cs50.shiftsavior.TaskAdapter$TaskViewHolder
+ edu.harvard.cs50.shiftsavior.TaskAdapter$TaskViewHolder$1
+ edu.harvard.cs50.shiftsavior.TaskAdapter$TaskViewHolder$2
+edu/harvard/cs50/shiftsavior/TaskDatabase.java
+ edu.harvard.cs50.shiftsavior.TaskDatabase
+edu/harvard/cs50/shiftsavior/MainActivity.java
+ edu.harvard.cs50.shiftsavior.MainActivity
+ edu.harvard.cs50.shiftsavior.MainActivity$1
+edu/harvard/cs50/shiftsavior/Task.java
+ edu.harvard.cs50.shiftsavior.Task
+edu/harvard/cs50/shiftsavior/NotificationHelper.java
+ edu.harvard.cs50.shiftsavior.NotificationHelper
+edu/harvard/cs50/shiftsavior/TaskDao.java
+ edu.harvard.cs50.shiftsavior.TaskDao
